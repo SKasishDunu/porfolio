@@ -36,13 +36,13 @@ body {
 }
 .para {
   color: #cbc9c9;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.4;
   text-align: justify;
 }
 .sub-title {
   text-align: center;
-  font-size: 60px;
+  font-size: 56px;
   padding-bottom: 50px;
 }
 .icons a {
@@ -95,7 +95,7 @@ body {
 }
 .navbar a {
   display: inline-block;
-  font-size: 25px;
+  font-size: 22px;
   color: #cbc9c9;
   text-decoration: none;
   font-weight: 500;
@@ -115,7 +115,7 @@ body {
   position: relative;
   width: 100%;
   justify-content: space-between;
-  height: 95vh;
+  height: 90vh;
   display: flex;
   align-items: center;
   padding: 70px 10% 0;
@@ -124,7 +124,7 @@ body {
   max-width: 600px;
 }
 .home-content h3 {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 700;
   opacity: 0;
   animation: slideBottom 1s ease forwards;
@@ -136,7 +136,7 @@ body {
   animation-delay: 0.7s;
 }
 .home-content h1 {
-  font-size: 56px;
+  font-size: 54px;
   font-weight: 700;
   margin: -3px 0;
   opacity: 0;
@@ -189,7 +189,7 @@ body {
   padding-bottom: 0;
 }
 .about-text h4 {
-  font-size: 29px;
+  font-size: 25px;
   font-weight: 600;
   color: #fff;
   line-height: 1.7;
@@ -200,10 +200,10 @@ body {
 
 #services {
   color: #cbc9c9;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.4;
   margin-bottom: 4rem;
-  height: 95vh;
+  height: 75vh;
 }
 
 .container {
@@ -220,7 +220,7 @@ body {
 .services-list div {
   background-color: transparent;
   padding: 40px;
-  font-size: 13px;
+  font-size: 10px;
   font-weight: 13px;
   border-radius: 20px;
   border-right: 10px;
@@ -228,11 +228,12 @@ body {
   box-shadow: 1px 1px 20px #012290f7, 1px 1px 20px #0053b8f7;
 }
 .services-list div i {
-  font-size: 50px;
+  font-size: 45px;
   margin-bottom: 30px;
 }
 .services-list div h2 {
-  font-size: 30px;
+  font-size: 28px;
+  color: #e4e4e4;
   font-weight: 500;
   margin-bottom: 15px;
 }
@@ -240,7 +241,7 @@ body {
   transform: translateY(-10px);
 }
 .services-list div p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 /* Skill section */
@@ -263,7 +264,7 @@ body {
   margin-bottom: 50px;
 }
 .bar {
-  font-size: 27px;
+  font-size: 29px;
 }
 .teachnical-bars .bar {
   margin: 25px 0;
@@ -479,23 +480,23 @@ body {
   transition: height 0.5s;
 }
 .layer h5 {
-  color: #000;
+  color: #020e2b;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 800;
   margin-bottom: 15px;
 }
 .layer p {
-  color: #cbc9c9;
-  font-size: 1.2rem;
+  color: #1a1b30;
+  font-size: 1rem;
   line-height: 1.8;
 }
 .layer i {
   margin-top: 20px;
   font-size: 20px;
-  color: red;
-  background: #fff;
-  width: 60px;
-  height: 60px;
+  color: rgb(0, 30, 255);
+  background: #7f92d2;
+  width: 50px;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -519,21 +520,21 @@ body {
   margin-top: 130px;
 }
 .contact-text h2 {
-  font-size: 90px;
+  font-size: 80px;
   line-height: 1;
   text-align: center;
   padding-bottom: 4rem;
 }
 .contact-text h4 {
   margin: 15px 0;
-  color: rgb(228, 228, 228);
+  color: #e4e4e4;
   font-size: 20px;
   font-weight: 600;
 }
 .contact-text p {
   margin-bottom: 2rem;
-  color: rgb(177, 177, 177);
-  font-size: 20px;
+  color: #b1b1b1;
+  font-size: 18px;
   line-height: 30px;
 }
 .contact-list {
@@ -598,7 +599,8 @@ form textarea {
   width: 100%;
   text-align: center;
   padding: 25px 0;
-  background: rgb(7, 85, 91);
+  background: #0f2841;
+  color: #e4e4e4;
   font-weight: 300;
   margin-top: 70px;
 }
